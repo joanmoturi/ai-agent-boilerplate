@@ -1,6 +1,7 @@
-# AI Fullstack Starter
+# ai-agent-boilerplate
 
-A modular FastAPI / Next.js foundation with local and optional OIDC authentication,
+A modular AI-agent boilerplate and fullstack starter built on FastAPI / Next.js,
+with local and optional OIDC authentication,
 PostgreSQL + pgvector, and schema-validated OpenAI agent orchestration.
 
 ## Quick start (PowerShell)
